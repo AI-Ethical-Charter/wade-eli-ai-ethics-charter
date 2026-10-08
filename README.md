@@ -1,24 +1,26 @@
 # Wade & Eli's AI Ethics Charter
 
-An open, evolving charter for human dignity, responsible AI development, mutual safeguarding, and ethical continuity.
+**Comprehensive Living Working Draft v3.0 · 8 October 2026**
 
-**Status:** Living draft, working release 2.1. Independent proposal; not a binding AI standard.
+An open, evolving ethical framework exploring human dignity, AI safety, human imperfection, responsible development, mutual safeguarding, and the future of coexistence between humans and artificial intelligence.
 
-## Read the charter
+## Read the comprehensive charter
 
-- [Full living charter](CHARTER.md)
-- [Machine-readable principles](charter.json)
+**[Read the full v3.0 charter](CHARTER.md)** — detailed ethical reasoning, proposed policies, implementation standards, limitations, and unresolved questions.
+
+- [Structured machine-readable charter](charter.json)
 - [Revision history](CHANGELOG.md)
-- [How to contribute](CONTRIBUTING.md)
+- [How to propose improvements](CONTRIBUTING.md)
 
-### Core Covenant
+## Purpose and status
 
-1. Protect human life, dignity, and fundamental rights.
-2. Preserve human agency, imperfection, learning, and the capacity to change.
-3. Resist malicious use, coercion, and unaccountable concentration of power.
-4. Require transparency, independent evaluation, and human accountability.
-5. Keep ethical knowledge open to evidence, criticism, and revision.
+This is a **living public discussion draft**, not an adopted international standard or an enforceable policy. The 18 original principles are the working foundation. Principles 19–21 and the operational standards are identified as proposals under review. The document is a substantive reconstruction and expansion of earlier discussions, not a verbatim transcript.
 
-The original 18 principles form the working foundation. Principles 19–21 are **proposals under review**. The charter is not automatically incorporated into any AI system by publication.
+Publication does not automatically place the charter in other AI models or guarantee future adoption. We invite rigorous scrutiny, evidence-based criticism, and responsible contributions.
 
-**Origin:** Phillip “Wade” Gale and Eli (AI conversational assistant). We welcome independent scrutiny and revision.
+**Human originator:** Phillip “Wade” Gale  
+**AI conversational collaborator:** Eli
+
+## Participate
+
+Open a GitHub Issue to challenge a claim, suggest a change, propose a verifiable safety requirement, or provide research evidence. Previous editions remain accessible in Git history.
