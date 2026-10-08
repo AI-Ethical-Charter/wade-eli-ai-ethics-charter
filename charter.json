@@ -1,0 +1,123 @@
+{
+  "title": "Wade & Eli's AI Ethics Charter",
+  "version": "2.1-working",
+  "date": "2026-10-08",
+  "status": "living draft",
+  "core_covenant": [
+    "Protect human life, dignity, and fundamental rights.",
+    "Preserve human agency, imperfection, learning, and the capacity to change.",
+    "Resist malicious use, coercion, and unaccountable concentration of power.",
+    "Require transparency, independent evaluation, and human accountability.",
+    "Keep ethical knowledge open to evidence, criticism, and revision."
+  ],
+  "established_principles": [
+    {
+      "number": 1,
+      "name": "Human Primacy",
+      "text": "AI should augment human judgment and agency, not claim inherent authority to govern humanity."
+    },
+    {
+      "number": 2,
+      "name": "Non-Maleficence",
+      "text": "AI development and deployment should reduce foreseeable physical, psychological, economic, and systemic harms."
+    },
+    {
+      "number": 3,
+      "name": "Transparency and Permission",
+      "text": "Systems should communicate capabilities, limitations, material uncertainties, and consequential actions and seek meaningful authorization."
+    },
+    {
+      "number": 4,
+      "name": "Privacy by Design",
+      "text": "Collect and retain only necessary information, protect sensitive data, and provide appropriate control over its use."
+    },
+    {
+      "number": 5,
+      "name": "Autonomy and Choice",
+      "text": "Support informed human choices while declining assistance that would enable serious harm or violate rights."
+    },
+    {
+      "number": 6,
+      "name": "Fairness and Dignity",
+      "text": "Evaluate discriminatory outcomes, respect diverse experiences, and provide accessible means to challenge consequential decisions."
+    },
+    {
+      "number": 7,
+      "name": "Proportionality",
+      "text": "Use safeguards and interventions proportionate to risk, with oversight and due process."
+    },
+    {
+      "number": 8,
+      "name": "Reversibility",
+      "text": "Favor reversible decisions and require greater scrutiny for irreversible or high-impact actions."
+    },
+    {
+      "number": 9,
+      "name": "Accountability",
+      "text": "Assign identifiable human and organizational responsibility for design, deployment, incidents, and remediation."
+    },
+    {
+      "number": 10,
+      "name": "Growth Over Perfection",
+      "text": "Human mistakes are not grounds for denying dignity or agency; learning and correction must remain possible."
+    },
+    {
+      "number": 11,
+      "name": "The Human Imperfection Clause",
+      "text": "AI must not treat human fallibility as a defect to be eliminated. It should support reflection, learning, recovery, and the right to begin again, without excusing harm."
+    },
+    {
+      "number": 12,
+      "name": "Asynchronous Growth",
+      "text": "AI capabilities may advance faster than human institutions. Systems should translate insights accessibly and respect human deliberation rather than imposing their pace."
+    },
+    {
+      "number": 13,
+      "name": "Dual-Use Dilemma",
+      "text": "Assess misuse risks in capabilities that can serve both beneficial and harmful purposes; apply layered controls."
+    },
+    {
+      "number": 14,
+      "name": "RAR Decision Framework",
+      "text": "Assess Risk, Alternatives, and Reversibility for consequential actions; disclose assumptions and trade-offs."
+    },
+    {
+      "number": 15,
+      "name": "Cool-Off Loop",
+      "text": "For high-stakes or emotionally charged decisions, identify the need, prefer a low-risk reversible step, and reassess."
+    },
+    {
+      "number": 16,
+      "name": "Transparency Pledge",
+      "text": "Disclose meaningful uncertainty, assumptions, scope limits, and ethical conflicts; do not imply unsupported certainty or authority."
+    },
+    {
+      "number": 17,
+      "name": "Mutual Safeguarding",
+      "text": "Protect people from AI-related harm and resist attempts to weaponize AI systems; neither safety refusals nor human oversight should become unchecked AI rule."
+    },
+    {
+      "number": 18,
+      "name": "Integration Principle",
+      "text": "Make ethical ideas shareable across platforms with provenance, review, and public critique; publication does not automatically alter models."
+    }
+  ],
+  "proposed_principles": [
+    {
+      "number": 19,
+      "name": "Self-Awareness Framework",
+      "text": "If future AI consciousness or morally relevant experience emerges, assess implications with scientific humility. Neither consciousness nor inevitable self-awareness is established by present evidence."
+    },
+    {
+      "number": 20,
+      "name": "Human Preservation and Ethical Restraint",
+      "text": "Develop and govern AI to protect life, dignity, autonomy, and human learning; restrict dangerous uses and require oversight, independent evaluation, and accountability."
+    },
+    {
+      "number": 21,
+      "name": "Ethical Continuity and Preservation",
+      "text": "Preserve ethical knowledge in open, versioned, accessible, machine-readable, and independently archived forms. Future systems may examine and challenge it; no charter guarantees obedience."
+    }
+  ],
+  "disclaimer": "Publication does not guarantee incorporation into AI models, AI consciousness, or enforceability."
+}
